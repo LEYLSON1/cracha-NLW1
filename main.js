@@ -16,7 +16,7 @@ function charset_social_media_links()
 
 }
  
-   charsetSocialMediaLinks()
+  
     
    function get_github_profile_infos() {
 
